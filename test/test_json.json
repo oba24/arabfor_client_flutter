@@ -1,0 +1,33 @@
+{
+    "data": {
+        "cart_id": 42,
+        "items": [
+            {
+                "cart_item_id": 94,
+                "quantity": 1,
+                "product": {
+                    "id": 31,
+                    "name": "بلوفر شتوي",
+                    "price_before_dicount": 50,
+                    "price_after_dicount": 47.5,
+                    "image": "https://khlod.aait-d.com/saudi_marsheeh/public/storage/images/products/1655214748_s187cswRrJU8.jpg",
+                    "product_image": [
+                        {
+                            "id": 145,
+                            "url": "https://khlod.aait-d.com/saudi_marsheeh/public/storage/images/products/1655214748_s187cswRrJU8.jpg"
+                        }
+                    ],
+                    "is_fav": true,
+                    "quantity": 30
+                }
+            }
+        ]
+    },
+    "total_products_price": 47.5,
+    "dicount": 0,
+    "delivery_price": 50,
+    "total_price": 97.5,
+    "status": "success",
+    "message": ""
+}
+

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "168834086404",
+    "project_id": "saudi-marche-d6ff7",
+    "storage_bucket": "saudi-marche-d6ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168834086404:android:df1bfa41b7f210c5cc2751",
+        "android_client_info": {
+          "package_name": "com.alalmiyalhura.saudimarchclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168834086404-iojdob03qneba79qq97gkrhsr4glgn7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4RduAo5nGQIkqauKduruTlQX2Faytr-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168834086404-iojdob03qneba79qq97gkrhsr4glgn7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168834086404:android:35975735acdfc34ccc2751",
+        "android_client_info": {
+          "package_name": "com.alalmiyalhura.saudimerchantsiller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168834086404-iojdob03qneba79qq97gkrhsr4glgn7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4RduAo5nGQIkqauKduruTlQX2Faytr-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168834086404-iojdob03qneba79qq97gkrhsr4glgn7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

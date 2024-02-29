@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217.658" height="220.949" viewBox="0 0 217.658 220.949">
+  <g id="graphic-confirmation" transform="translate(519.48 -335.092)">
+    <g id="plus_icon_2" data-name="plus icon 2" transform="translate(-382.422 543.897)">
+      <line id="Line_6" data-name="Line 6" y2="10.144" transform="translate(5.072 0)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_5" data-name="Line 5" x1="10.144" transform="translate(0 5.072)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <g id="plus_icon" data-name="plus icon" transform="translate(-495.496 343.104)">
+      <line id="Line_4" data-name="Line 4" y2="10.144" transform="translate(5.072)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_3" data-name="Line 3" x1="10.144" transform="translate(0 5.072)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <circle id="bg_3" data-name="bg 3" cx="6.012" cy="6.012" r="6.012" transform="translate(-315.847 456.415)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <circle id="bg_2" data-name="bg 2" cx="6.012" cy="6.012" r="6.012" transform="translate(-406.552 337.092)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <circle id="bg_1" data-name="bg 1" cx="6.012" cy="6.012" r="6.012" transform="translate(-517.48 461.723)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_7" data-name="Path 7" d="M-413.4,530.989l-63.82-27.3V410.727l63.82,27.3Z" transform="translate(-2.337 -3.122)" fill="#726351" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_6" data-name="Path 6" d="M-347.919,503.689l-63.82,27.3V438.027l63.82-27.3Z" transform="translate(-4 -3.122)" fill="#958a7e" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_5" data-name="Path 5" d="M-349.582,410.016l-63.82-27.3-63.82,27.3,63.82,27.3Z" transform="translate(-2.337 -2.411)" fill="#342a1c" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_4" data-name="Path 4" d="M-414.341,438.027l-36.07,15.405-63.82-27.3,36.07-15.405Z" transform="translate(-1.397 -3.122)" fill="#958a7e" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_3" data-name="Path 3" d="M-411.739,438.027l36.07,15.405,63.82-27.3-36.07-15.405Z" transform="translate(-4 -3.122)" fill="#958a7e" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_2" data-name="Path 2" d="M-509.963,396.01l31.91,13.65,63.82-27.3-31.91-13.65Z" transform="translate(-1.505 -2.055)" fill="#958a7e" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_1" data-name="Path 1" d="M-316.009,396.01l-31.91,13.65-63.82-27.3,31.91-13.65Z" transform="translate(-4 -2.055)" fill="#958a7e" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <g id="Tick_icon" data-name="Tick icon" transform="translate(-438.725 371.369)">
+      <circle id="bg" cx="22.986" cy="22.986" r="22.986" fill="#fff" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="icon_tick" data-name="icon tick" d="M-421.181,399.1l5.473,5.473,12.915-12.915" transform="translate(434.965 -374.007)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" x1="23.11" y2="9.886" transform="translate(-405.532 495.434)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <line id="Line_1" data-name="Line 1" x1="15.803" y2="6.76" transform="translate(-405.532 505.874)" fill="none" stroke="#43290a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+</svg>

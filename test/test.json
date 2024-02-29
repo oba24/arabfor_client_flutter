@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 33,
+            "name": "work",
+            "lat": "26.54999900",
+            "lng": "31.70000100",
+            "address": "المنصورة",
+            "is_default": false
+        },
+        {
+            "id": 32,
+            "name": "home",
+            "lat": "26.54999900",
+            "lng": "31.70000100",
+            "address": "المنصورة",
+            "is_default": true
+        }
+    ],
+    "links": {
+        "first": "https://khlod.aait-d.com/saudi_marsheeh/public/api/client/address?page=1",
+        "last": "https://khlod.aait-d.com/saudi_marsheeh/public/api/client/address?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://khlod.aait-d.com/saudi_marsheeh/public/api/client/address?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https://khlod.aait-d.com/saudi_marsheeh/public/api/client/address",
+        "per_page": 20,
+        "to": 2,
+        "total": 2
+    },
+    "status": "success",
+    "message": ""
+}
